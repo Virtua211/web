@@ -1,0 +1,179 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.danghang {
+  height: 75px;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
+  line-height: 75px;
+  padding: 0 95px;
+}
+.logo {
+  float: left;
+  line-height: 75px;
+  margin-left: 80px;
+  margin-right: 40px;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+div a.ava:hover {
+  background-color: #9ac8e2;
+}
+div a.bella:hover {
+  background-color: #db7d74;
+}
+div a.diana:hover {
+  background-color: #e799b0;
+}
+div a.eileen:hover {
+  background-color: #576690;
+}
+
+p {
+  color: #576690;
+}
+
+/* 向晚介绍 */
+.ava2 {
+  display: inline-block;
+  width: 320px;
+  height: 800px;
+  /* text-align-last: left; */
+  margin-left: 50px;
+  margin-top: 150px;
+  padding: 1px;
+}
+/* 头图 */
+.ava2 img {
+  width: 100%;
+}
+
+.name {
+  height: 10px;
+  color: #9ac8e2;
+  padding: 0 160px;
+  margin-top: 20px;
+}
+.solgan {
+  height: 10px;
+  padding: 0 15px;
+  margin-top: 10px;
+  color: #9ac8e2;
+}
+.ava3 img {
+  height: 100%;
+  margin-top: 25px;
+}
+
+/* 贝拉介绍 */
+.bella2 {
+  display: inline-block;
+  width: 320px;
+  height: 800px;
+  text-align-last: left;
+  margin-left: 50px;
+  margin-top: 150px;
+  padding: 1px;
+}
+/* 头图 */
+.bella2 img {
+  width: 100%;
+}
+
+.name {
+  height: 20px;
+  color: #9ac8e2;
+  padding: 0 150px;
+  margin-top: 20px;
+}
+.solgan {
+  height: 40px;
+  padding: 0 105px;
+  margin-top: 20px;
+  color: #9ac8e2;
+}
+.bella3 img {
+  height: 100%;
+  margin-top: 25px;
+}
+
+/* 嘉然 */
+.diana2 {
+  display: inline-block;
+  width: 320px;
+  height: 800px;
+  text-align-last: left;
+  margin-left: 50px;
+  margin-top: 150px;
+  padding: 1px;
+}
+/* 头图 */
+.diana2 img {
+  width: 100%;
+}
+
+.name {
+  height: 20px;
+  color: #9ac8e2;
+  padding: 0 150px;
+  margin-top: 20px;
+}
+.solgan {
+  height: 40px;
+  padding: 0 105px;
+  margin-top: 20px;
+  color: #9ac8e2;
+}
+.diana3 img {
+  height: 100%;
+  margin-top: 25px;
+}
+
+/* 乃琳介绍 */
+.eileen2 {
+  display: inline-block;
+  width: 320px;
+  height: 800px;
+  text-align-last: left;
+  margin-left: 50px;
+  margin-top: 150px;
+  padding: 1px;
+}
+/* 头图 */
+.eileen2 img {
+  width: 100%;
+}
+
+.name {
+  height: 20px;
+  color: #9ac8e2;
+  padding: 0 150px;
+  margin-top: 20px;
+}
+.solgan {
+  height: 40px;
+  padding: 0 105px;
+  margin-top: 20px;
+  color: #9ac8e2;
+}
+.eileen3 img {
+  height: 100%;
+  margin-top: 25px;
+}
+
+/* 版权 */
+p {
+  text-align: center;
+  color: #000;
+  margin-bottom: 20px;
+}
